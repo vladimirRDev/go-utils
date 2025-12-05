@@ -10,6 +10,7 @@ for working with slices, strings, time, and much more.
 - [math](#math)
 - [models](#models)
 - [other](#other)
+- [short](#short)
 - [slices](#slices)
 - [strings](#strings)
 - [time](#time)
@@ -358,7 +359,7 @@ firstNil := other.FirstNonEmpty(nil, nil)
 // firstNil: nil
 ```
 
-### Short
+### short
 
 Package that contains short functions for working with various data types.
 
